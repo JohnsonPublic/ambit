@@ -35,10 +35,10 @@ You will also need a large map of your chosen geographic area, a video camera an
 
 ## Instructions and guide
 
-### Creating the game
+### [Creating the game](https://communityconversational.wordpress.com/2017/10/25/first-blog-post/) 
 
 ### During the event
 
-### After the event
+### [After the event](https://communityconversational.wordpress.com/2017/10/25/featured-content/)
 
 ### Linking your consultation to desicion-making
