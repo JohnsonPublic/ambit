@@ -28,13 +28,13 @@ You will also need a large map of your chosen geographic area, a video camera an
 
 ## Instructions and guide
 
-# Creating the game
+### Creating the game
 
-# During the event
+### During the event
 
-# After the event
+### After the event
 
-# Linking your consultation to desicion-making
+### Linking your consultation to desicion-making
 
 
 
