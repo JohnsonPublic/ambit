@@ -16,7 +16,7 @@ You will also need a large map of your chosen geographic area, a video camera an
 
 -[Creating your cards]
 
-![cards]((https://github.com/JohnsonPublic/ambit/blob/master/P1220433.JPG)
+![cards](https://github.com/JohnsonPublic/ambit/blob/master/20160408_151933.jpg)
 
 -[Creating markers]
 
