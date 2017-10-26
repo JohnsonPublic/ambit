@@ -16,9 +16,15 @@ You will also need a large map of your chosen geographic area, a video camera an
 
 -[Creating your cards]
 
+![cards]()
+
 -[Creating markers]
 
+![markers]()
+
 -[Creating marker bases (as shown in illustration)]
+
+![marker base]()
 
 -[Uploading media]
 
