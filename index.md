@@ -24,11 +24,11 @@ You will also need a large map of your chosen geographic area, a video camera an
 
 -[Creating marker bases (as shown in illustration)]
 
-![marker base](https://github.com/JohnsonPublic/ambit/blob/master/20160408_120205.jpg)
+![marker base](https://github.com/JohnsonPublic/ambit/blob/master/20160407_160450.jpg)
 
 -[Uploading media]
 
--[Creating bespoke neighbourhood data map]
+-Creating bespoke neighbourhood data map
 
 -[Evaluating your neighbourhood data]
 
