@@ -39,6 +39,6 @@ You will also need a large map of your chosen geographic area, a video camera an
 
 ### During the event
 
-### [After the event](https://communityconversational.wordpress.com/2017/10/25/featured-content/)
+### After the event(https://communityconversational.wordpress.com/2017/10/25/featured-content/)
 
 ### Linking your consultation to desicion-making
