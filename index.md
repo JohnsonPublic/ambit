@@ -13,17 +13,17 @@ The game consists of a set of cards and a set of markers, which there are instru
 
 You will also need a large map of your chosen geographic area, a video camera and a SD memory card.
 
--Creating your cards
+-[Creating your cards]
 
--Creating markers
+-[Creating markers]
 
--Creating marker bases (as shown in illustration)
+-[Creating marker bases (as shown in illustration)]
 
--Uploading media
+-[Uploading media]
 
--Creating bespoke neighbourhood data map
+-[Creating bespoke neighbourhood data map]
 
--Evaluating your neighbourhood data
+-[Evaluating your neighbourhood data]
 
 
 ## Instructions and guide
