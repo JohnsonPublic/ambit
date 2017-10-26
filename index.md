@@ -1,3 +1,8 @@
+# Community Conversational
+_A guide and resources for creating tools to support local consultation around matters of local concern_
+
+![image](https://www.dropbox.com/s/rhikxgvjjvj7h7u/cropped-p1230474.jpg?dl=0)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JohnsonPublic/ambit/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
