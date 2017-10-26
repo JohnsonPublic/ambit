@@ -30,7 +30,7 @@ You will also need a large map of your chosen geographic area, a video camera an
 
 -Creating bespoke neighbourhood data map
 
--[Evaluating your neighbourhood data]
+-[Evaluating your neighbourhood data](https://github.com/JohnsonPublic/ambit/blob/master/CHI%202018%20Fig%203%204%205_anon.jpg) 
 
 
 ## Instructions and guide
@@ -39,6 +39,6 @@ You will also need a large map of your chosen geographic area, a video camera an
 
 ### During the event
 
-### After the event(https://communityconversational.wordpress.com/2017/10/25/featured-content/)
+### [After the event](https://communityconversational.wordpress.com/2017/10/25/featured-content/)
 
 ### Linking your consultation to desicion-making
