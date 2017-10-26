@@ -16,7 +16,7 @@ You will also need a large map of your chosen geographic area, a video camera an
 
 -[Creating your cards]
 
-![cards](https://github.com/JohnsonPublic/ambit/blob/master/20160408_151933.jpg)
+![cards](http://ww2.ambitenergy.com/images/uploads/Wind_SolarEnergy-Spark.jpg)
 
 -[Creating markers]
 
