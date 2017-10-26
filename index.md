@@ -16,15 +16,15 @@ You will also need a large map of your chosen geographic area, a video camera an
 
 -[Creating your cards]
 
-![cards]()
+![cards](https://github.com/JohnsonPublic/ambit/blob/master/20160408_151933.jpg)
 
 -[Creating markers]
 
-![markers]()
+![markers](https://github.com/JohnsonPublic/ambit/blob/master/20160408_120142.jpg)
 
 -[Creating marker bases (as shown in illustration)]
 
-![marker base]()
+![marker base](https://github.com/JohnsonPublic/ambit/blob/master/20160408_120205.jpg)
 
 -[Uploading media]
 
