@@ -20,19 +20,19 @@ You will also need a large map of your chosen geographic area, a video camera an
 
 -[Creating markers]
 
-![markers](https://github.com/JohnsonPublic/ambit/blob/master/20160408_120142.jpg)
+![markers](20160408_120142.jpg)
 
 -[Creating marker bases (as shown in illustration)]
 
-![marker base](https://github.com/JohnsonPublic/ambit/blob/master/20160407_160450.jpg)
+![marker base](20160407_160450.jpg)
 
 -Creating bespoke neighbourhood data map
 
-![Uploading media](https://github.com/JohnsonPublic/ambit/blob/master/add_own_data_figure5.png)
+![Uploading media](add_own_data_figure5.png)
 
 -Evaluating your neighbourhood data
 
-![Evaluating your neighbourhood data](https://github.com/JohnsonPublic/ambit/blob/master/CHI%202018%20Fig%203%204%205_anon.jpg) 
+![Evaluating your neighbourhood data](CHI%202018%20Fig%203%204%205_anon.jpg) 
 
 
 ## Instructions and guide
