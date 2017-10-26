@@ -1,4 +1,4 @@
-![image](ambit/cropped-p1230474.jpg)
+![image](cropped-p1230474.jpg)
 
 # Community Conversational
 _A guide and resources for creating tools to support local consultation around matters of local concern_
