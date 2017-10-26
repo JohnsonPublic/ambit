@@ -7,7 +7,7 @@ _A guide and resources for creating tools to support local consultation around m
 ## About
 Community Conversational is a research project from Open Lab at Newcastle University. For more information contact [Ian Johnson](mailto:i.g.johnson1@newcastle.ac.uk).
 
-
+![me](https://github.com/JohnsonPublic/ambit/blob/master/P1220477.JPG) 
 
 ## Wiki
 The game consists of a set of cards and a set of markers, which there are instructions on how to create below.
@@ -36,6 +36,3 @@ You will also need a large map of your chosen geographic area, a video camera an
 ### After the event
 
 ### Linking your consultation to desicion-making
-
-
-
