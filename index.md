@@ -26,7 +26,7 @@ You will also need a large map of your chosen geographic area, a video camera an
 
 ![marker base](https://github.com/JohnsonPublic/ambit/blob/master/20160407_160450.jpg)
 
--[Uploading media]
+-[Uploading media](https://github.com/JohnsonPublic/ambit/blob/master/add_own_data_figure5.png)
 
 -Creating bespoke neighbourhood data map
 
