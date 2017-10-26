@@ -1,42 +1,40 @@
 # Community Conversational
 _A guide and resources for creating tools to support local consultation around matters of local concern_
 
-![image](https://www.dropbox.com/s/rhikxgvjjvj7h7u/cropped-p1230474.jpg?dl=0)
+![image](https://github.com/JohnsonPublic/ambit/blob/master/cropped-p1230474.jpg) 
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/JohnsonPublic/ambit/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## About
+Community Conversational is a research project from Open Lab at Newcastle University. For more information contact [Ian Johnson](mailto:i.g.johnson1@newcastle.ac.uk).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Wiki
+The game consists of a set of cards and a set of markers, which there are instructions on how to create below.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You will also need a large map of your chosen geographic area, a video camera and a SD memory card.
 
-```markdown
-Syntax highlighted code block
+-Creating your cards
 
-# Header 1
-## Header 2
-### Header 3
+-Creating markers
 
-- Bulleted
-- List
+-Creating marker bases (as shown in illustration)
 
-1. Numbered
-2. List
+-Uploading media
 
-**Bold** and _Italic_ and `Code` text
+-Creating bespoke neighbourhood data map
 
-[Link](url) and ![Image](src)
-```
+-Evaluating your neighbourhood data
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Instructions and guide
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JohnsonPublic/ambit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Creating the game
 
-### Support or Contact
+# During the event
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# After the event
+
+# Linking your consultation to desicion-making
+
+
+
