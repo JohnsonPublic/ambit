@@ -1,11 +1,12 @@
+![image](https://github.com/JohnsonPublic/ambit/blob/master/cropped-p1230474.jpg)
+
 # Community Conversational
 _A guide and resources for creating tools to support local consultation around matters of local concern_
 
-![image](https://github.com/JohnsonPublic/ambit/blob/master/cropped-p1230474.jpg) 
-
-
+ 
 ## About
 Community Conversational is a research project from Open Lab at Newcastle University. For more information contact [Ian Johnson](mailto:i.g.johnson1@newcastle.ac.uk).
+
 
 
 ## Wiki
