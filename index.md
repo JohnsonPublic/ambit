@@ -37,7 +37,7 @@ You will also need a large map of your chosen geographic area, a video camera an
 
 ## Instructions and guide
 
-### [Creating the game](https://communityconversational.wordpress.com/2017/10/25/first-blog-post/) 
+### Creating the game 
 
 ### During the event
 
